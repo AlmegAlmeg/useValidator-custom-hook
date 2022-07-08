@@ -1,0 +1,12 @@
+.custom-input input{
+    display: block;
+    width: 100%;
+    padding: .5rem;
+    border-radius: 3rem;
+    border: 2px solid rgba(128, 128, 128, 0.41);
+}
+
+.custom-input span{
+    color: red;
+    font-size: 1rem;
+}
